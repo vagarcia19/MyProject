@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
+    "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\MyWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {
+    "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\MyWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\MyWebApplication.csproj",
         "projectName": "MyWebApplication",
-        "projectPath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectPath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\MyWebApplication.csproj",
         "packagesPath": "C:\\Users\\DABOY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DABOY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\EntityManager",
+    "\\Models\\ViewModel",
+    "\\Views",
+    "\\Views\\Account"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNWgThShvjYThcpf7LbyZkNoOytCdc7wB416ASHVFLoQLI8KzBif3cZE715NnbBgfBo7zo55ujPSXkCwS2IFAw==",
+  "dgSpecHash": "P/MEMhPJz1frw7C4pHgY9vtlNHDpAMDfvWbOhPw3+9qAKeN+FLkr7Cn/UK3NhNuSuxxuAOURp0ekb+6rQGA15Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\DABOY\\source\\repos\\MyWebApplication\\MyProject\\MyWebApplication\\MyWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DABOY\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DABOY\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
