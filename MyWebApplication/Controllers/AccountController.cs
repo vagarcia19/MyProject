@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿    using Microsoft.AspNetCore.Mvc;
 using MyWebApplication.Models.EntityManager;
 using MyWebApplication.Models.ViewModel;
 
@@ -21,6 +21,7 @@ namespace MyWebApplication.Controllers
         [HttpPost]
         public ActionResult SignUp(UserModel user)
         {
+       
             if (ModelState.IsValid)
             {
                 UserManager um = new UserManager();
